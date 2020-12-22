@@ -1,3 +1,6 @@
+#This code was provided to us by the organizers of competition.
+
+
 #! /usr/bin/env python
 
 import rospy
